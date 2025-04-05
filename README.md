@@ -5,7 +5,10 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 
 ## Table of contents
 
-[TOC]
+- **[Survey, Review & Challenge of flare removal](#Survey, Review & Challenge of flare removal)**
+- **[Flare removal datasets](#Flare removal datasets)**
+- **[Unsupervised flare removal methods](#Unsupervised flare removal methods)**
+- **[supervised flare removal methods](#supervised flare removal methods)**
 
 ------
 
