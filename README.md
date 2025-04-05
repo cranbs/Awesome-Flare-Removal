@@ -3,7 +3,16 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 
 ------
 
-## Survey, Review & Challenge of flare removal
+## Table of contents
+
+- [Survey, Review & Challenge of flare removal](#Survey-of-flare-removal)
+- [Flare removal datasets](#Flare-removal-datasets)
+- [Unsupervised flare removal methods](#Unsupervised-flare-removal-methods)
+- [supervised flare removal methods](#supervised-flare-removal-methods)
+
+------
+
+## Survey of flare removal
 
 * `ArXiv 2023` **Toward flare-free images: A survey.** **[[paper](https://arxiv.org/abs/2310.14354)]**
 * `ArXiv 2023` **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark.** **[[paper](https://arxiv.org/pdf/2306.15884)]**
