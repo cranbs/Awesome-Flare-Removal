@@ -28,15 +28,16 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 - `PRMI 2024` **Deflare-net: Flare detection and removal network.** **[[paper](https://link.springer.com/chapter/10.1007/978-3-031-45170-6_48)]**  
 - `TPAMI 2024` `CCF A`  **Flare7k++: Mixing synthetic and real datasets for nighttime flare removal and beyond.** **[[paper](https://arxiv.org/pdf/2306.04236)]** **[[code](https://github.com/ykdai/Flare7K)]**
 - `ICASSP 2024` `CCF C`  **Flare-free vision: Empowering uformer with depth insights.** **[[paper](https://www.researchgate.net/profile/Marwan-Torki/publication/376586936_FLARE-FREE_VISION_EMPOWERING_UFORMER_WITH_DEPTH_INSIGHTS_ICASSP2024/links/657ea3058e2401526dde1e84/FLARE-FREE-VISION-EMPOWERING-UFORMER-WITH-DEPTH-INSIGHTS-ICASSP2024.pdf)]** **[[code](https://github.com/yousefkotp/Flare-Free-Vision-Empowering-Uformer-with-Depth-Insights)]**
-- `The Visual Computer 2024` **Mfdnet: Multifrequency deflare network for efficient nighttime flare removal.** **[[paper](https://link.springer.com/article/10.1007/s00371-024-03540-x)]** 
-- `Entropy 2024` **Flare removal model based on sparse-uformer networks.** **[[paper](https://www.mdpi.com/1099-4300/26/8/627)]** 
-- `Pattern Recognition 2024` **Gr-gan: A unified adversarial framework for single image glare removal and denoising.** **[[paper](https://www.sciencedirect.com/science/article/pii/S0031320324005661)]** 
-- `BMVC 2024`  **Difflare: Removing image lens flare with latent diffusion model.** **[[paper](https://arxiv.org/pdf/2407.14746)]** **[[code](https://github.com/TianwenZhou/Difflare)]**
-- `IEEE TIP 2024` **Towards blind flare removal using knowledge-driven flare-level estimator.** **[[paper](https://ieeexplore.ieee.org/abstract/document/10726687)]** 
-- `IEEE CSVT 2025` **LPFSformer: Location Prior Guided Frequency and Spatial Interactive Learning for Nighttime Flare Removal.** **[[paper](https://ieeexplore.ieee.org/document/10777570)]** 
-- `IEEE TASE 2025` **Self-prior Guided Spatial and Fourier Transformer  for Nighttime Flare Removal.** **[[paper](https://ieeexplore.ieee.org/abstract/document/10877847)]** 
-- `EAAI 2025` **A self-prompt based dual-domain network for nighttime flare removal.** **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225007726)]** 
-- `Neurocomputing 2025` **Mask-Q attention network for flare removal.** **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001034)]** 
-- `Neural Networks 2025` **When low-light meets flares: Towards Synchronous Flare Removal and Brightness Enhancement.** **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025000280)]** 
+- `The Visual Computer 2024` `CCF C` **Mfdnet: Multifrequency deflare network for efficient nighttime flare removal.** **[[paper](https://link.springer.com/article/10.1007/s00371-024-03540-x)]** 
+- `ArXiv 2024`  **Harmonizing Light and Darkness: A Symphony of Prior-guided Data Synthesis and Adaptive Focus for Nighttime Flare Removal.** **[[paper](https://arxiv.org/pdf/2404.00313)]** **[[code](https://github.com/qulishen/Harmonizing-Light-and-Darkness)]**
+- `Pattern Recognition 2024` `CCF B` **Gr-gan: A unified adversarial framework for single image glare removal and denoising.** **[[paper](https://www.sciencedirect.com/science/article/pii/S0031320324005661)]**  
+- `BMVC 2024` `CCF C`  **Difflare: Removing image lens flare with latent diffusion model.** **[[paper](https://arxiv.org/pdf/2407.14746)]** **[[code](https://github.com/TianwenZhou/Difflare)]**
+- `IEEE TIP 2024` `CCF A` **Towards blind flare removal using knowledge-driven flare-level estimator.** **[[paper](https://ieeexplore.ieee.org/abstract/document/10726687)]** 
+- `IEEE CSVT 2025` `CCF B` **LPFSformer: Location Prior Guided Frequency and Spatial Interactive Learning for Nighttime Flare Removal.** **[[paper](https://ieeexplore.ieee.org/document/10777570)]** 
+- `IEEE TASE 2025` `CCF B` **Self-prior Guided Spatial and Fourier Transformer  for Nighttime Flare Removal.** **[[paper](https://ieeexplore.ieee.org/abstract/document/10877847)]** **[[code](https://github.com/cranbs/SGSFT)]**
+- `EAAI 2025` `CCF C` **A self-prompt based dual-domain network for nighttime flare removal.** **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225007726)]** 
+- `Neurocomputing 2025` `CCF C`  **Mask-Q attention network for flare removal.** **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001034)]** 
+- `Neural Networks 2025` `CCF B` **When low-light meets flares: Towards Synchronous Flare Removal and Brightness Enhancement.** **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025000280)]** 
 - `ICASSP 2025` `CCF C`  **Flare-Aware RWKV for Flare Removal.** **[[paper](https://ieeexplore.ieee.org/document/10888487)]** 
+- `ArXiv 2025`  **[Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal](https://arxiv.org/abs/2502.10714).** **[[paper](https://arxiv.org/pdf/2502.10714)]** 
 
