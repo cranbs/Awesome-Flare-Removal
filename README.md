@@ -1,6 +1,10 @@
 # Awesome-Deep-Learning-based-Flare-Removal-Methods
 Collection of recent flare removal works, including datasets, papers, codes and metrics.
 
+<p align="center">
+  <img src="asset/flareRemoval.png" />
+</p>
+
 ------
 
 ## Table of contents
