@@ -1,9 +1,18 @@
 # Awesome-Deep-Learning-based-Flare-Removal-Methods
 Collection of recent flare removal works, including datasets, papers, codes and metrics.
 
+------
+
+## Table of contents
+
+[TOC]
+
+------
+
 ## Survey, Review & Challenge of flare removal
 
 * `ArXiv 2023` **Toward flare-free images: A survey.** **[[paper](https://arxiv.org/abs/2310.14354)]**
+* `ArXiv 2023` **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark.** **[[paper](https://arxiv.org/pdf/2306.15884)]**
 * `CVPRW 2023` `CCF A Workshop` **Mipi 2023 challenge on nighttime flare removal: Methods and results.** **[[paper](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Dai_MIPI_2023_Challenge_on_Nighttime_Flare_Removal_Methods_and_Results_CVPRW_2023_paper.pdf)]**
 * `CVPRW 2024` `CCF A Workshop` **Mipi 2024 challenge on nighttime flare removal: Methods and results.** **[[paper](https://ieeexplore.ieee.org/document/10678229)]**
 
@@ -39,5 +48,5 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 - `Neurocomputing 2025` `CCF C`  **Mask-Q attention network for flare removal.** **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001034)]** 
 - `Neural Networks 2025` `CCF B` **When low-light meets flares: Towards Synchronous Flare Removal and Brightness Enhancement.** **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025000280)]** 
 - `ICASSP 2025` `CCF C`  **Flare-Aware RWKV for Flare Removal.** **[[paper](https://ieeexplore.ieee.org/document/10888487)]** 
-- `ArXiv 2025`  **[Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal](https://arxiv.org/abs/2502.10714).** **[[paper](https://arxiv.org/pdf/2502.10714)]** 
+- `ArXiv 2025`  **Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal. **[[paper](https://arxiv.org/pdf/2502.10714)]** 
 
