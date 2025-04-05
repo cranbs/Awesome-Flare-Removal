@@ -14,10 +14,12 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 
 ## Survey of flare removal
 
-* `ArXiv 2023` **Toward flare-free images: A survey.** **[[paper](https://arxiv.org/abs/2310.14354)]**
-* `ArXiv 2023` **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark.** **[[paper](https://arxiv.org/pdf/2306.15884)]**
-* `CVPRW 2023` `CCF A Workshop` **Mipi 2023 challenge on nighttime flare removal: Methods and results.** **[[paper](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Dai_MIPI_2023_Challenge_on_Nighttime_Flare_Removal_Methods_and_Results_CVPRW_2023_paper.pdf)]**
-* `CVPRW 2024` `CCF A Workshop` **Mipi 2024 challenge on nighttime flare removal: Methods and results.** **[[paper](https://ieeexplore.ieee.org/document/10678229)]**
+| Year |       Publication        |                            Title                             |                            Paper                             | Code |
+| :--: | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
+| 2023 |         `ArXiv`          |            **Toward flare-free images: A survey**            |       **[[paper](https://arxiv.org/abs/2310.14354)]**        |      |
+| 2023 |         `ArXiv`          | **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark** |       **[[paper](https://arxiv.org/pdf/2306.15884)]**        |      |
+| 2023 | `CVPRW` `CCF A Workshop` | **Mipi 2023 challenge on nighttime flare removal: Methods and results** | **[[paper](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Dai_MIPI_2023_Challenge_on_Nighttime_Flare_Removal_Methods_and_Results_CVPRW_2023_paper.pdf)]** |      |
+| 2024 | `CVPRW` `CCF A Workshop` | **Mipi 2024 challenge on nighttime flare removal: Methods and results** | **[[paper](https://ieeexplore.ieee.org/document/10678229)]** |      |
 
 ## Flare removal datasets
 
