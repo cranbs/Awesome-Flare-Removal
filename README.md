@@ -31,13 +31,14 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 | :--: | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
 | 2022 | `NIPS` `CCF A`  | **Flare7k: A phenomenological nighttime flare removal dataset** | **[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/1909ac72220bf5016b6c93f08b66cf36-Paper-Datasets_and_Benchmarks.pdf)]** | **[[dataset](https://github.com/ykdai/Flare7K)]** |
 | 2023 |     `ArXiv`     | **Tackling scattering and reflective flare in mobile camera systems: A raw image dataset for enhanced flare removal** | **[[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230714180L/abstract)]** |                                                   |
+| 2023 |     `ArXiv`     | **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark** |       **[[paper](https://arxiv.org/pdf/2306.15884)]**        |                                                   |
 | 2024 | `TPAMI` `CCF A` | **Flare7k++: Mixing synthetic and real datasets for nighttime flare removal and beyond** |       **[[paper](https://arxiv.org/pdf/2306.04236)]**        | **[[dataset](https://github.com/ykdai/Flare7K)]** |
 
 ## Unsupervised flare removal methods
 
-| Year |  Publication   |                            Title                             |                            Paper                             | Code |
-| :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
-| 2021 | `ICCV` `CCF A` | **Light source guided single image flare removal from unpaired data** | **[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Qiao_Light_Source_Guided_Single-Image_Flare_Removal_From_Unpaired_Data_ICCV_2021_paper.pdf)]** |      |
+| Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
+| :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2021 | `ICCV` `CCF A` | **Light source guided single image flare removal from unpaired data** | **[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Qiao_Light_Source_Guided_Single-Image_Flare_Removal_From_Unpaired_Data_ICCV_2021_paper.pdf)]** | **[[code](https://github.com/tanmayj2020/LightSourceGuideSingleImageFlareRemoval-ICCV2021)]** |
 
 ## Supervised flare removal methods
 
