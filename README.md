@@ -40,6 +40,11 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2021 | `ICCV` `CCF A` | **Light source guided single image flare removal from unpaired data** | **[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Qiao_Light_Source_Guided_Single-Image_Flare_Removal_From_Unpaired_Data_ICCV_2021_paper.pdf)]** | **[[code](https://github.com/tanmayj2020/LightSourceGuideSingleImageFlareRemoval-ICCV2021)]** |
 
+## self-supervised flare removal methods
+| Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
+| :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025 |        `AAAI` `CCF A`         | **Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2502.10714)]**        |   **[[code](https://github.com/xhnshui/Flare-Removal)]**        |
+
 ## Supervised flare removal methods
 
 | Year |          Publication          |                            Title                             |                            Paper                             |                             Code                             |
@@ -63,5 +68,5 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 | 2025 |   `Neurocomputing` `CCF C`    |        **Mask-Q attention network for flare removal**        | **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001034)]** |                                                              |
 | 2025 |   `Neural Networks` `CCF B`   | **When low-light meets flares: Towards Synchronous Flare Removal and Brightness Enhancement** | **[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025000280)]** |                                                              |
 | 2025 |       `ICASSP` `CCF C`        |            **Flare-Aware RWKV for Flare Removal**            | **[[paper](https://ieeexplore.ieee.org/document/10888487)]** |                                                              |
-| 2025 |        `AAAI` `CCF A`         | **Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2502.10714)]**        |   **[[code](https://github.com/xhnshui/Flare-Removal)]**                                                            |
+| 2025 |        `Expert Systems with Applications` `CCF C`       | **IllumiNet: A two-stage model for effective flare removal and light enhancement under complex lighting conditions** |       **[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425012606)]**        |   |
 
