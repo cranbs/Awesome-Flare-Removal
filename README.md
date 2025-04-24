@@ -1,6 +1,6 @@
 # Awesome-Deep-Learning-based-Flare-Removal-Methods
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![visitors](https://visitor-badge.glitch.me/badge?page_id=cranbs/Awesome-Flare-Removal) ![GitHub stars](https://img.shields.io/github/stars/cranbs/Awesome-Flare-Removal?color=green)  ![GitHub forks](https://img.shields.io/github/forks/cranbs/Awesome-Flare-Removal?color=9cf)
 Collection of recent flare removal works, including datasets, papers, codes and metrics.
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![visitors](https://visitor-badge.glitch.me/badge?page_id=1900zyh/Awesome-Image-Inpainting) ![GitHub stars](https://img.shields.io/github/stars/1900zyh/Awesome-Image-Inpainting?color=green)  ![GitHub forks](https://img.shields.io/github/forks/1900zyh/Awesome-Image-Inpainting?color=9cf)
 
 <p align="center">
   <img src="asset/flareRemoval.png" />
