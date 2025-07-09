@@ -80,4 +80,4 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 ## Related
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2021 |`ArXiv`| **Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration** | **[[paper](https://arxiv.org/pdf/2501.18517)]** |   |
+| 2025 |`ArXiv`| **Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration** | **[[paper](https://arxiv.org/pdf/2501.18517)]** |   |
