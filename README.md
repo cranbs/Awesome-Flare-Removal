@@ -16,6 +16,7 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 - [Unsupervised flare removal methods](#Unsupervised-flare-removal-methods)
 - [Self-supervised flare removal methods](#Self-supervised-flare-removal-methods)
 - [supervised flare removal methods](#supervised-flare-removal-methods)
+- [Related methods](#Related)
 
 ------
 
@@ -76,3 +77,7 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 | 2025 |        `TCE`       | **Nighttime Glare Removal for Consumer Electronics via Latent Space Transformation and Feature Enhanced Attention Mechanism** |       **[[paper](https://ieeexplore.ieee.org/abstract/document/11006158)]**        |   |
 | 2025 |       `Neural Networks` `CCF B`       | **LUFormer : A luminance-informed localized transformer with frequency augmentation for nighttime flare removal** |       **[[paper](https://www.sciencedirect.com/science/article/pii/S0893608025005404)]**        |   [[code](https://github.com/HeZhao0725/LUFormer)]|
 
+## Related
+| Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
+| :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2021 |`ArXiv`| **Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration** | **[[paper](https://arxiv.org/pdf/2501.18517)]** |   |
