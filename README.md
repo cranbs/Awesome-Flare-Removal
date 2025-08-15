@@ -77,6 +77,7 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 | 2025 |        `TCE`       | **Nighttime Glare Removal for Consumer Electronics via Latent Space Transformation and Feature Enhanced Attention Mechanism** |       **[[paper](https://ieeexplore.ieee.org/abstract/document/11006158)]**        |   |
 | 2025 |       `Neural Networks` `CCF B`       | **LUFormer : A luminance-informed localized transformer with frequency augmentation for nighttime flare removal** |       **[[paper](https://www.sciencedirect.com/science/article/pii/S0893608025005404)]**        |   [[code](https://github.com/HeZhao0725/LUFormer)]|
 | 2025 |       `IEEE TCSVT` `CCF B`       | **SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal** |       **[[paper](https://ieeexplore.ieee.org/document/11113259)]**        |         |
+| 2025 |       `ACM MM` `CCF A`       | **DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2508.02113)]**        |  [[code](https://github.com/BNU-ERC-ITEA/DeflareMamba)]       |
 
 ## Related
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
