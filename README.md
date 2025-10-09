@@ -37,6 +37,7 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 | 2023 |     `ArXiv`     | **Tackling scattering and reflective flare in mobile camera systems: A raw image dataset for enhanced flare removal** | **[[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230714180L/abstract)]** |                                                   |
 | 2023 |     `ArXiv`     | **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark** |       **[[paper](https://arxiv.org/pdf/2306.15884)]**        |                                                   |
 | 2024 | `TPAMI` `CCF A` | **Flare7k++: Mixing synthetic and real datasets for nighttime flare removal and beyond** |       **[[paper](https://arxiv.org/pdf/2306.04236)]**        | **[[dataset](https://github.com/ykdai/Flare7K)]** |
+| 2025 | `ICCV` `CCF A` | **PBFG: A New Physically-Based Dataset and Removal of Lens Flares and Glares** |           |      |
 
 ## Unsupervised flare removal methods
 
