@@ -81,7 +81,7 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 | 2025 |       `IEEE TCSVT` `CCF B`       | **SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal** |       **[[paper](https://ieeexplore.ieee.org/document/11113259)]**        |         |
 | 2025 |       `ACM MM` `CCF A`       | **DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2508.02113)]**        |  [[code](https://github.com/BNU-ERC-ITEA/DeflareMamba)]       |
 | 2025 |       `ICCV` `CCF A`       | **Removing Out-of-Focus Reflective Flares via Color Alignment** |             |      |
-| 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |             |      |
+| 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |             |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
 
 ## Related
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
