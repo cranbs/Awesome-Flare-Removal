@@ -88,3 +88,7 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025 |`ArXiv`| **Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration** | **[[paper](https://arxiv.org/pdf/2501.18517)]** |   |
 | 2025 |`IEEE IoTJ`| **Adversarial Lens Flares: A Threat to Camera-Based Systems in Smart Devices** | **[[paper](https://ieeexplore.ieee.org/abstract/document/10806811/)]** |   |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cranbs/Awesome-Flare-Removal&type=date&legend=top-left)](https://www.star-history.com/#c%20ran%20b%20s/c%20ran%20b%20s&cranbs/Awesome-Flare-Removal&type=date&legend=top-left)
