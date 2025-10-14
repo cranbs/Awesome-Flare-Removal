@@ -38,6 +38,7 @@ Collection of recent flare removal works, including datasets, papers, codes and 
 | 2023 |     `ArXiv`     | **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark** |       **[[paper](https://arxiv.org/pdf/2306.15884)]**        |                                                   |
 | 2024 | `TPAMI` `CCF A` | **Flare7k++: Mixing synthetic and real datasets for nighttime flare removal and beyond** |       **[[paper](https://arxiv.org/pdf/2306.04236)]**        | **[[dataset](https://github.com/ykdai/Flare7K)]** |
 | 2025 | `ICCV` `CCF A` | **PBFG: A New Physically-Based Dataset and Removal of Lens Flares and Glares** |      **[[paper](https://cg.skku.edu/pub/papers/2025-zhu-iccv-pbfg-cam.pdf)]**       |   **[[dataset](https://github.com/cgskku/pbfg)]**   |
+| 2025 | `NIPS` `CCF A` | **FlareX: A Physics-Informed Dataset for Lens Flare Removal via 2D Synthesis and 3D Rendering** |      **[[paper](https://arxiv.org/pdf/2510.09995)]**       |   **[[dataset](https://github.com/qulishen/FlareX)]**   |
 
 ## Unsupervised flare removal methods
 
