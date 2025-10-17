@@ -46,12 +46,11 @@
 
 -------
 
-<details>
-    <summary>
-        <h2 id="2-Survey-Papers">
-            <span>2. Survey Papers</span>
-        </h2>
-    </summary>
+  <summary>
+      <h2 id="2-Survey-Papers">
+          <span>2. Survey Papers</span>
+      </h2>
+  </summary>
 
 | Year |       Publication        |                            Title                             |                            Paper                             |                        Project                        |
 | :--: | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------: |
@@ -62,12 +61,11 @@
 
 -------
 
-<details>
-    <summary>
-        <h2 id="3-Datasets">
-            <span>3. Datasets</span>
-        </h2>
-    </summary>
+  <summary>
+      <h2 id="3-Datasets">
+          <span>3. Datasets</span>
+      </h2>
+  </summary>
 
 | Year |   Publication   |                            Title                             |                            Paper                             |                      Dataset                      |
 | :--: | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
@@ -80,30 +78,27 @@
 
 -------
 
+  <summary>
+      <h2 id="4-Flare-Removal">
+          <span>4. Flare removal</span>
+      </h2>
+  </summary>
 
-<details>
-    <summary>
-        <h2 id="4-Flare-Removal">
-            <span>4. Flare removal</span>
-        </h2>
-    </summary>
-
-<details>
-    <summary><h3 id="41-unsupervised"><span>4.1. Unsupervised Flare Removal</span></h3></summary>
+  <summary><h3 id="41-unsupervised"><span>4.1. Unsupervised Flare Removal</span></h3></summary>
 
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2021 | `ICCV` `CCF A` | **Light source guided single image flare removal from unpaired data** | **[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Qiao_Light_Source_Guided_Single-Image_Flare_Removal_From_Unpaired_Data_ICCV_2021_paper.pdf)]** | **[[code](https://github.com/tanmayj2020/LightSourceGuideSingleImageFlareRemoval-ICCV2021)]** |
 
-<details>
-    <summary><h3 id="42-selfsupervised"><span>4.2. Self-supervised  Flare Removal</span></h3></summary>
+
+  <summary><h3 id="42-selfsupervised"><span>4.2. Self-supervised  Flare Removal</span></h3></summary>
 
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025 |        `AAAI` `CCF A`         | **Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2502.10714)]**        |   **[[code](https://github.com/xhnshui/Flare-Removal)]**        |
 
-<details>
-    <summary><h3 id="43-supervised"><span>4.3. Supervised  Flare Removal</span></h3></summary>
+
+  <summary><h3 id="43-supervised"><span>4.3. Supervised  Flare Removal</span></h3></summary>
 
 
 | Year |          Publication          |                            Title                             |                            Paper                             |                             Code                             |
@@ -139,8 +134,7 @@
 
 -------
 
-<details>
-    <summary><h2 id="5-Other-Related"><span>5. Other Related</span></h2></summary>
+  <summary><h2 id="5-Other-Related"><span>5. Other Related</span></h2></summary>
                                                         
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
