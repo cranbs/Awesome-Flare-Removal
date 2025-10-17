@@ -16,20 +16,16 @@
 ## 📚 Table of Contents:
 
 <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-          <ul>
-              <li><a href="#1-Latest">1. Latest Work</a></li>
-              <li><a href="#2-Survey-Papers">2. Survey Papers</a></li>
-              <li><a href="#3-Datasets">3. Datasets</a>
-              <li><a href="#4-Flare-Removal">4. Flare Removal</a>
-                  <ul>
-                      <li><a href="#41-unsupervised">4.1. Unsupervised Flare Removal </a></li>
-                      <li><a href="#42-selfsupervised">4.2. Self-supervised Flare Removal</a></li>
-                      <li><a href="#43-supervised">4.3. Supervised Flare Removal</a></li>
-                  </ul>
-              </li><li><a href="#5-Other-Related">5. Other Related</a>
-          </ul>
-    </tr>
+  <li><a href="#1-Latest">1. Latest Work</a></li>
+  <li><a href="#2-Survey-Papers">2. Survey Papers</a></li>
+  <li><a href="#3-Datasets">3. Datasets</a>
+  <li><a href="#4-Flare-Removal">4. Flare Removal</a>
+      <ul>
+          <li><a href="#41-unsupervised">4.1. Unsupervised Flare Removal </a></li>
+          <li><a href="#42-selfsupervised">4.2. Self-supervised Flare Removal</a></li>
+          <li><a href="#43-supervised">4.3. Supervised Flare Removal</a></li>
+      </ul>
+  </li><li><a href="#5-Other-Related">5. Other Related</a>
 </table>
 
 -------
@@ -48,7 +44,7 @@
 | 2025 |        `AAAI` `CCF A`         | **Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2502.10714)]**        |   **[[code](https://github.com/xhnshui/Flare-Removal)]**        |
 | 2025 |        `TPAMI` `CCF A`       | **Image Lens Flare Removal Using Adversarial Curve Learning** |       **[[paper](https://ieeexplore.ieee.org/document/10989553)]**        | [[code](https://github.com/YuyanZhou1/Improving-Lens-Flare-Removal)] |
 
--------------
+-------
 
 <details>
     <summary>
@@ -64,7 +60,7 @@
 | 2023 |         `ArXiv`          |            **Toward flare-free images: A survey**            |       **[[paper](https://arxiv.org/abs/2310.14354)]**        |                                                       |
 | 2023 |         `ArXiv`          | **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark** |       **[[paper](https://arxiv.org/pdf/2306.15884)]**        |                                                       |
 
--------------
+-------
 
 <details>
     <summary>
@@ -81,9 +77,8 @@
 | 2022 | `NIPS` `CCF A`  | **Flare7k: A phenomenological nighttime flare removal dataset** | **[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/1909ac72220bf5016b6c93f08b66cf36-Paper-Datasets_and_Benchmarks.pdf)]** | **[[dataset](https://github.com/ykdai/Flare7K)]** |
 | 2023 |     `ArXiv`     | **Tackling scattering and reflective flare in mobile camera systems: A raw image dataset for enhanced flare removal** | **[[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230714180L/abstract)]** |                                                   |
 | 2023 |     `ArXiv`     | **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark** |       **[[paper](https://arxiv.org/pdf/2306.15884)]**        |     
-|
 
--------------------
+-------
 
 
 <details>
@@ -142,13 +137,11 @@
 | 2024 | `BMVC` `CCF C` | **GN-FR: Generalizable Neural Radiance Fields for Flare Removal** | **[[paper](https://arxiv.org/pdf/2412.08200)]** |  |
 | 2024 |      `IEEE TIP` `CCF A`       | **Towards blind flare removal using knowledge-driven flare-level estimator** | **[[paper](https://ieeexplore.ieee.org/abstract/document/10726687)]** |  
 
-------------------
-
+-------
 
 <details>
     <summary><h2 id="5-Other-Related"><span>5. Other Related</span></h2></summary>
-                                                            |
-## Related
+                                                        
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025 |`IEEE IoTJ`| **Adversarial Lens Flares: A Threat to Camera-Based Systems in Smart Devices** | **[[paper](https://ieeexplore.ieee.org/abstract/document/10806811/)]** |   |
