@@ -91,7 +91,7 @@
       </h2>
   </summary>
   
-</details>
+</details open>
   <summary><h3 id="41-unsupervised"><span>4.1. Unsupervised Flare Removal</span></h3></summary>
 
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
