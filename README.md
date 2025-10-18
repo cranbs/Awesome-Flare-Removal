@@ -97,6 +97,8 @@
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2021 | `ICCV` `CCF A` | **Light source guided single image flare removal from unpaired data** | **[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Qiao_Light_Source_Guided_Single-Image_Flare_Removal_From_Unpaired_Data_ICCV_2021_paper.pdf)]** | **[[code](https://github.com/tanmayj2020/LightSourceGuideSingleImageFlareRemoval-ICCV2021)]** |
 
+</details>
+
 <details open>
   <summary><h3 id="42-selfsupervised"><span>4.2. Self-supervised  Flare Removal</span></h3></summary>
 
