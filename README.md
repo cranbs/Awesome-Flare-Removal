@@ -91,7 +91,7 @@
       </h2>
   </summary>
   
-</details open>
+<details open>
   <summary><h3 id="41-unsupervised"><span>4.1. Unsupervised Flare Removal</span></h3></summary>
 
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
@@ -143,8 +143,6 @@
 | 2023 |        `CVPR` `CCF A`         | **Nighttime smartphone reflective flare removal using optical center symmetry prior** | **[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_Nighttime_Smartphone_Reflective_Flare_Removal_Using_Optical_Center_Symmetry_Prior_CVPR_2023_paper.pdf)]** |     **[[code](https://github.com/ykdai/BracketFlare)]**      |
 | 2022 |        `NIPS` `CCF A`         | **Flare7k: A phenomenological nighttime flare removal dataset** | **[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/1909ac72220bf5016b6c93f08b66cf36-Paper-Datasets_and_Benchmarks.pdf)]** |        **[[code](https://github.com/ykdai/Flare7K)]**        |
 | 2021 |        `ICCV` `CCF A`         |      **How to train neural networks for flare removal**      | **[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_How_To_Train_Neural_Networks_for_Flare_Removal_ICCV_2021_paper.pdf)]** | **[[code](https://github.com/budui/flare_removal_pytorch)]** |
-
-</details>
 
 </details>
 
