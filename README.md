@@ -59,9 +59,11 @@
 | 2023 | `CVPRW` `CCF A Workshop` | **Mipi 2023 challenge on nighttime flare removal: Methods and results** | **[[paper](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Dai_MIPI_2023_Challenge_on_Nighttime_Flare_Removal_Methods_and_Results_CVPRW_2023_paper.pdf)]** | **[[project](https://mipi-challenge.org/MIPI2023/)]** |
 | 2024 | `CVPRW` `CCF A Workshop` | **Mipi 2024 challenge on nighttime flare removal: Methods and results** | **[[paper](https://ieeexplore.ieee.org/document/10678229)]** | **[[project](https://mipi-challenge.org/MIPI2024/)]** |
 | 2023 |         `ArXiv`          |            **Toward flare-free images: A survey**            |       **[[paper](https://arxiv.org/abs/2310.14354)]**        |                                                       |
-| 2023 |         `ArXiv`          | **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark** |       **[[paper](https://arxiv.org/pdf/2306.15884)]**        |                                                       |
+| 2023 |         `ArXiv`          | **Toward Real Flare Removal: A Comprehensive Pipeline and A New Benchmark** |       **[[paper](https://arxiv.org/pdf/2306.15884)]**                                          |
 <details>
+
 -------
+
 <details>
   <summary>
       <h2 id="3-Datasets">
@@ -135,7 +137,9 @@
 | 2021 |        `ICCV` `CCF A`         |      **How to train neural networks for flare removal**      | **[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_How_To_Train_Neural_Networks_for_Flare_Removal_ICCV_2021_paper.pdf)]** | **[[code](https://github.com/budui/flare_removal_pytorch)]** |
 
 <details>
+
 -------
+
 <details>
   <summary><h2 id="5-Other-Related"><span>5. Other Related</span></h2></summary>
                                                         
