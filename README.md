@@ -41,7 +41,7 @@
 | 2025 | `NIPS` `CCF A` | **FlareX: A Physics-Informed Dataset for Lens Flare Removal via 2D Synthesis and 3D Rendering** |      **[[paper](https://arxiv.org/pdf/2510.09995)]**       |   **[[dataset](https://github.com/qulishen/FlareX)]**   |
 | 2025 |       `ACM MM` `CCF A`       | **DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2508.02113)]**        |  [[code](https://github.com/BNU-ERC-ITEA/DeflareMamba)]       |
 | 2025 |       `ICCV` `CCF A`       | **Removing Out-of-Focus Reflective Flares via Color Alignment** |   🚀 Comming soon          |     |
-| 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |         🚀 Comming soon      |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
+| 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |         **[[paper](https://arxiv.org/pdf/2510.15868)]**     |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
 | 2025 | `ICCV` `CCF A` | **PBFG: A New Physically-Based Dataset and Removal of Lens Flares and Glares** |      **[[paper](https://cg.skku.edu/pub/papers/2025-zhu-iccv-pbfg-cam.pdf)]**       |   **[[dataset](https://github.com/cgskku/pbfg)]**   |
 | 2025 |        `AAAI` `CCF A`         | **Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2502.10714)]**        |   **[[code](https://github.com/xhnshui/Flare-Removal)]**        |
 | 2025 |        `TPAMI` `CCF A`       | **Image Lens Flare Removal Using Adversarial Curve Learning** |       **[[paper](https://ieeexplore.ieee.org/document/10989553)]**        | [[code](https://github.com/YuyanZhou1/Improving-Lens-Flare-Removal)] |
@@ -115,8 +115,8 @@
 
 | Year |          Publication          |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |         🚀 Comming soon      |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
-| 2025 |       `ICCV` `CCF A`       | **Removing Out-of-Focus Reflective Flares via Color Alignment** |   🚀 Comming soon          |  🚀 Comming soon      |
+| 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |         **[[paper](https://arxiv.org/pdf/2510.15868)]**   |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
+| 2025 |       `ICCV` `CCF A`       | **Removing Out-of-Focus Reflective Flares via Color Alignment** |   🚀 Comming soon          |      |
 | 2025 |       `ACM MM` `CCF A`       | **DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2508.02113)]**        |  [[code](https://github.com/BNU-ERC-ITEA/DeflareMamba)]       |
 | 2025 |       `IEEE TCSVT` `CCF B`       | **SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal** |       **[[paper](https://ieeexplore.ieee.org/document/11113259)]**        |         |
 | 2025 |       `Neural Networks` `CCF B`       | **LUFormer : A luminance-informed localized transformer with frequency augmentation for nighttime flare removal** |       **[[paper](https://www.sciencedirect.com/science/article/pii/S0893608025005404)]**        |   [[code](https://github.com/HeZhao0725/LUFormer)]|
