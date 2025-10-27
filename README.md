@@ -6,9 +6,8 @@
 </p>
 
 <details>
-<summary>:loudspeaker:<strong>Last updated: 2025.10.17</strong></summary>
-
-- [10/2025] Update with NeurlPS2025 papers. 
+<summary>:loudspeaker:<strong>Last updated: 2025.10.27</strong></summary>
+- [10/2025] Update with NeurlPS2025, EAAI papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
 - [06/2025] Update with ICCV2025 papers.   
 </details>
@@ -115,6 +114,7 @@
 
 | Year |          Publication          |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025 | `EAAI` `CCF C` | **Flare detection and detail compensation for nighttime flare removal** |      **[[paper](https://www.sciencedirect.com/science/article/pii/S0952197625029574)]**       |     |
 | 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |         **[[paper](https://arxiv.org/pdf/2510.15868)]**   |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
 | 2025 |       `ICCV` `CCF A`       | **Removing Out-of-Focus Reflective Flares via Color Alignment** |  **[[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lan_Removing_Out-of-Focus_Reflective_Flares_via_Color_Alignment_ICCV_2025_paper.pdf)]**       |      |
 | 2025 |       `ACM MM` `CCF A`       | **DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2508.02113)]**        |  [[code](https://github.com/BNU-ERC-ITEA/DeflareMamba)]       |
