@@ -43,6 +43,7 @@
 | 2025 |       `ICCV` `CCF A`       | **Removing Out-of-Focus Reflective Flares via Color Alignment** |   **[[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lan_Removing_Out-of-Focus_Reflective_Flares_via_Color_Alignment_ICCV_2025_paper.pdf)]**         |     |
 | 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |         **[[paper](https://arxiv.org/pdf/2510.15868)]**     |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
 | 2025 | `ICCV` `CCF A` | **PBFG: A New Physically-Based Dataset and Removal of Lens Flares and Glares** |      **[[paper](https://cg.skku.edu/pub/papers/2025-zhu-iccv-pbfg-cam.pdf)]**       |   **[[dataset](https://github.com/cgskku/pbfg)]**   |
+| 2025 | `ICCVW` `CCF A` | **FlareGS: 4D Flare Removal using Gaussian Splatting for Urban Scenes** |      **[[paper](https://openaccess.thecvf.com/content/ICCV2025W/2COOOL/papers/Chandak_FlareGS_4D_Flare_Removal_using_Gaussian_Splatting_for_Urban_Scenes_ICCVW_2025_paper.pdf)]**       |     |
 | 2025 |        `AAAI` `CCF A`         | **Disentangle Nighttime Lens Flares: Self-supervised Generation-based Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2502.10714)]**        |   **[[code](https://github.com/xhnshui/Flare-Removal)]**        |
 | 2025 |        `TPAMI` `CCF A`       | **Image Lens Flare Removal Using Adversarial Curve Learning** |       **[[paper](https://ieeexplore.ieee.org/document/10989553)]**        | [[code](https://github.com/YuyanZhou1/Improving-Lens-Flare-Removal)] |
 
@@ -118,6 +119,7 @@
 | 2025 | `EAAI` `CCF C` | **Flare detection and detail compensation for nighttime flare removal** |      **[[paper](https://www.sciencedirect.com/science/article/pii/S0952197625029574)]**       |     |
 | 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |         **[[paper](https://arxiv.org/pdf/2510.15868)]**   |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
 | 2025 |       `ICCV` `CCF A`       | **Removing Out-of-Focus Reflective Flares via Color Alignment** |  **[[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lan_Removing_Out-of-Focus_Reflective_Flares_via_Color_Alignment_ICCV_2025_paper.pdf)]**       |      |
+| 2025 | `ICCVW` `CCF A` | **FlareGS: 4D Flare Removal using Gaussian Splatting for Urban Scenes** |      **[[paper](https://openaccess.thecvf.com/content/ICCV2025W/2COOOL/papers/Chandak_FlareGS_4D_Flare_Removal_using_Gaussian_Splatting_for_Urban_Scenes_ICCVW_2025_paper.pdf)]**       |     |
 | 2025 |       `ACM MM` `CCF A`       | **DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2508.02113)]**        |  [[code](https://github.com/BNU-ERC-ITEA/DeflareMamba)]       |
 | 2025 |       `IEEE TCSVT` `CCF B`       | **SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal** |       **[[paper](https://ieeexplore.ieee.org/document/11113259)]**        |         |
 | 2025 |       `Neural Networks` `CCF B`       | **LUFormer : A luminance-informed localized transformer with frequency augmentation for nighttime flare removal** |       **[[paper](https://www.sciencedirect.com/science/article/pii/S0893608025005404)]**        |   [[code](https://github.com/HeZhao0725/LUFormer)]|
@@ -158,6 +160,7 @@
                                                         
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025 |`ICCVW`| **Learning to See Through Flare** | **[[paper](https://openaccess.thecvf.com/content/ICCV2025W/Responsible-Imaging/papers/Peng_Learning_to_See_Through_Flare_ICCVW_2025_paper.pdf)]** |   |
 | 2025 |`IEEE IoTJ`| **Adversarial Lens Flares: A Threat to Camera-Based Systems in Smart Devices** | **[[paper](https://ieeexplore.ieee.org/abstract/document/10806811/)]** |   |
 | 2025 |`ArXiv`| **Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration** | **[[paper](https://arxiv.org/pdf/2501.18517)]** |   |
 
