@@ -38,6 +38,7 @@
 
 | Year |       Publication        |                            Title                             |                            Paper                             |                        Project                        |
 | :--: | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------: |
+| 2026 | `AAAI` `CCF A` | **CAST-LUT: Tokenizer-Guided HSV Look-Up Tables for Purple Flare Removal** | **[[paper](https://arxiv.org/pdf/2511.06764)]** | [[code](https://github.com/Pu-Wang-alt/Reduce-Purple-Flare/)]   |
 | 2025 | `NIPS` `CCF A` | **FlareX: A Physics-Informed Dataset for Lens Flare Removal via 2D Synthesis and 3D Rendering** |      **[[paper](https://arxiv.org/pdf/2510.09995)]**       |   **[[dataset](https://github.com/qulishen/FlareX)]**   |
 | 2025 |       `ACM MM` `CCF A`       | **DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2508.02113)]**        |  [[code](https://github.com/BNU-ERC-ITEA/DeflareMamba)]       |
 | 2025 |       `ICCV` `CCF A`       | **Removing Out-of-Focus Reflective Flares via Color Alignment** |   **[[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lan_Removing_Out-of-Focus_Reflective_Flares_via_Color_Alignment_ICCV_2025_paper.pdf)]**         |     |
@@ -160,7 +161,7 @@
                                                         
 | Year |  Publication   |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025 |`ArXiv`| **CAST-LUT: Tokenizer-Guided HSV Look-Up Tables for Purple Flare Removal** | **[[paper](https://arxiv.org/pdf/2511.06764)]** | [[code](https://github.com/Pu-Wang-alt/Reduce-Purple-Flare/)]   |
+| 2026 | `AAAI` `CCF A` | **CAST-LUT: Tokenizer-Guided HSV Look-Up Tables for Purple Flare Removal** | **[[paper](https://arxiv.org/pdf/2511.06764)]** | [[code](https://github.com/Pu-Wang-alt/Reduce-Purple-Flare/)]   |
 | 2025 |`ICCVW`| **Learning to See Through Flare** | **[[paper](https://openaccess.thecvf.com/content/ICCV2025W/Responsible-Imaging/papers/Peng_Learning_to_See_Through_Flare_ICCVW_2025_paper.pdf)]** |   |
 | 2025 |`IEEE IoTJ`| **Adversarial Lens Flares: A Threat to Camera-Based Systems in Smart Devices** | **[[paper](https://ieeexplore.ieee.org/abstract/document/10806811/)]** |   |
 | 2025 |`ArXiv`| **Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration** | **[[paper](https://arxiv.org/pdf/2501.18517)]** |   |
