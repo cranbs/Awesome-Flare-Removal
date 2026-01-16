@@ -38,6 +38,7 @@
 
 | Year |       Publication        |                            Title                             |                            Paper                             |                        Project                        |
 | :--: | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------: |
+| 2026 | `AAAI` `CCF A` | **Nighttime Flare Removal via Wavelet-Guided and Gated-Enhanced Spatial-Frequency Fusion Network** |  | [[code](https://github.com/gyang666/WGSF-Net)]   |
 | 2026 | `AAAI` `CCF A` | **CAST-LUT: Tokenizer-Guided HSV Look-Up Tables for Purple Flare Removal** | **[[paper](https://arxiv.org/pdf/2511.06764)]** | [[code](https://github.com/Pu-Wang-alt/Reduce-Purple-Flare/)]   |
 | 2025 | `NIPS` `CCF A` | **FlareX: A Physics-Informed Dataset for Lens Flare Removal via 2D Synthesis and 3D Rendering** |      **[[paper](https://arxiv.org/pdf/2510.09995)]**       |   **[[dataset](https://github.com/qulishen/FlareX)]**   |
 | 2025 |       `ACM MM` `CCF A`       | **DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal** |       **[[paper](https://arxiv.org/pdf/2508.02113)]**        |  [[code](https://github.com/BNU-ERC-ITEA/DeflareMamba)]       |
@@ -117,6 +118,7 @@
 
 | Year |          Publication          |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026 | `AAAI` `CCF A` | **Nighttime Flare Removal via Wavelet-Guided and Gated-Enhanced Spatial-Frequency Fusion Network** |  | [[code](https://github.com/gyang666/WGSF-Net)]   |
 | 2025 | `EAAI` `CCF C` | **Flare detection and detail compensation for nighttime flare removal** |      **[[paper](https://www.sciencedirect.com/science/article/pii/S0952197625029574)]**       |     |
 | 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |         **[[paper](https://arxiv.org/pdf/2510.15868)]**   |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
 | 2025 |       `ICCV` `CCF A`       | **Removing Out-of-Focus Reflective Flares via Color Alignment** |  **[[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lan_Removing_Out-of-Focus_Reflective_Flares_via_Color_Alignment_ICCV_2025_paper.pdf)]**       |      |
