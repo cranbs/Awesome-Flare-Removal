@@ -118,6 +118,7 @@
 
 | Year |          Publication          |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026 | `Pattern Recognition` `CCF B` | **Nighttime flare removal via frequency decoupling** |  **[[paper](https://www.sciencedirect.com/science/article/pii/S0167865526000188)]** |  |
 | 2026 | `AAAI` `CCF A` | **Nighttime Flare Removal via Wavelet-Guided and Gated-Enhanced Spatial-Frequency Fusion Network** |  | [[code](https://github.com/gyang666/WGSF-Net)]   |
 | 2025 | `EAAI` `CCF C` | **Flare detection and detail compensation for nighttime flare removal** |      **[[paper](https://www.sciencedirect.com/science/article/pii/S0952197625029574)]**       |     |
 | 2025 |       `ICCV` `CCF A`       | **LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** |         **[[paper](https://arxiv.org/pdf/2510.15868)]**   |    [[code](https://github.com/Ray-1026/LightsOut-official)]    |
