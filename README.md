@@ -8,9 +8,9 @@
 <details>
 <summary>:loudspeaker:<strong>Last updated: 2025.10.27</strong></summary>
   
+- [01/2026] Update with AAAI2026 papers. 
 - [10/2025] Update with NeurlPS2025, EAAI papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
-- [06/2025] Update with ICCV2025 papers.   
 </details>
 
 ------
