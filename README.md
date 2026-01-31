@@ -38,6 +38,7 @@
 
 | Year |       Publication        |                            Title                             |                            Paper                             |                        Project                        |
 | :--: | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------: |
+| 2026 | `AAAI` `CCF A` | **SLCFormer: Spectral-Local Context Transformer with Physics-Grounded Flare Synthesis for Nighttime Flare Removal** |  |   |
 | 2026 | `AAAI` `CCF A` | **Nighttime Flare Removal via Wavelet-Guided and Gated-Enhanced Spatial-Frequency Fusion Network** |  | [[code](https://github.com/gyang666/WGSF-Net)]   |
 | 2026 | `AAAI` `CCF A` | **CAST-LUT: Tokenizer-Guided HSV Look-Up Tables for Purple Flare Removal** | **[[paper](https://arxiv.org/pdf/2511.06764)]** | [[code](https://github.com/Pu-Wang-alt/Reduce-Purple-Flare/)]   |
 | 2025 | `NIPS` `CCF A` | **FlareX: A Physics-Informed Dataset for Lens Flare Removal via 2D Synthesis and 3D Rendering** |      **[[paper](https://arxiv.org/pdf/2510.09995)]**       |   **[[dataset](https://github.com/qulishen/FlareX)]**   |
