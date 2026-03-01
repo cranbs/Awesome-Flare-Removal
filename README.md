@@ -119,7 +119,7 @@
 
 | Year |          Publication          |                            Title                             |                            Paper                             |                             Code                             |
 | :--: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2026 | `AAAI` `CCF A` | **SLCFormer: Spectral-Local Context Transformer with Physics-Grounded Flare Synthesis for Nighttime Flare Removal** | **[[paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2512.15221)]** |   |
+| 2026 | `AAAI` `CCF A` | **SLCFormer: Spectral-Local Context Transformer with Physics-Grounded Flare Synthesis for Nighttime Flare Removal** | **[[paper](https://arxiv.org/abs/2512.15221)]** |   |
 | 2026 | `AAAI` `CCF A` | **Nighttime Flare Removal via Wavelet-Guided and Gated-Enhanced Spatial-Frequency Fusion Network** |  | [[code](https://github.com/gyang666/WGSF-Net)]   |
 | 2026 | `AAAI` `CCF A` | **CAST-LUT: Tokenizer-Guided HSV Look-Up Tables for Purple Flare Removal** | **[[paper](https://arxiv.org/pdf/2511.06764)]** | [[code](https://github.com/Pu-Wang-alt/Reduce-Purple-Flare/)]   |
 | 2026 | `Pattern Recognition Letter` | **Nighttime flare removal via frequency decoupling** |  **[[paper](https://www.sciencedirect.com/science/article/pii/S0167865526000188)]** |  |
